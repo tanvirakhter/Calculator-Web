@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 .background {
-    background-color: rgb(95, 2, 99);
-    height: 100vh;
-    padding-top: 1px;
-    padding-bottom: 1px;
-}
+  position: relative;
+  width: 100%;
+  background-color: #fff;
+  min-height: 100vh;
+  overflow: hidden;
   
 .title {
     color: white;
